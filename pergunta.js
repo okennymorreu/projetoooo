@@ -1,126 +1,126 @@
 criaCartao(
-    'matematica',
-    'como se calcula a soma dos termos de uma P.A? ',
-    'utiliza-se a fórmula: ((a1+an)*r)/2'
+    'Matematica',
+    'Como se calcula a soma dos termos de uma P.A? ',
+    'Utiliza-se a fórmula: ((a1+an)*r)/2'
 )
 
 criaCartao(
-    'português',
-    'o que foi o periodo do romantismo?',
-    'Movimento artístico e cultural, da Europa'
+    'Português',
+    'O que foi o periodo do romantismo?',
+    'Movimento artístico e cultural, da Europa.'
 )
 
 criaCartao(
-    'história',
-    'Como aconteceu ',
-    'utiliza-se a fórmula: ((a1+an)*r)/2'
+    'História',
+    'Problemas da Ditadura Militar?',
+    'Censura,abuso de autoridade,perseguições e episódios de violência.'
 )
 
 criaCartao(
-    'matematica',
-    'como se calcula a soma dos termos de uma P.A? ',
-    'utiliza-se a fórmula: ((a1+an)*r)/2'
+    'Geografia',
+    'Qual é ooceano que banha o Brasil? ',
+    'Oceano Atlântico '
 )
 
 criaCartao(
-    'matematica',
-    'como se calcula a soma dos termos de uma P.A? ',
-    'utiliza-se a fórmula: ((a1+an)*r)/2'
+    'Inglês',
+    'Quais são os verbos to be?',
+    'Im,are e is'
 )
 
 criaCartao(
-    'matematica',
-    'como se calcula a soma dos termos de uma P.A? ',
-    'utiliza-se a fórmula: ((a1+an)*r)/2'
+    'Sociologia,
+    'Impactos do capitalismo na sociedade? ',
+    'Deigualdade social, pobreza extrema, divisão de classes, concentração de renda'
 )
 criaCartao(
-    'matematica',
-    'como se calcula a soma dos termos de uma P.A? ',
-    'utiliza-se a fórmula: ((a1+an)*r)/2'
-)
-
-criaCartao(
-    'matematica',
-    'como se calcula a soma dos termos de uma P.A? ',
-    'utiliza-se a fórmula: ((a1+an)*r)/2'
+    'Quimica',
+     ' O que são os reagentes de uma reação? ',
+    'São aquelas substância que utilizam-se para ocasionar uma reação'
 )
 
 criaCartao(
-    'matematica',
-    'como se calcula a soma dos termos de uma P.A? ',
-    'utiliza-se a fórmula: ((a1+an)*r)/2'
+    'Filosofia',
+    'Qual era a metodologia de Socrátes? ',
+    'Metodologia maiêutica'
 )
 
 criaCartao(
-    'matematica',
-    'como se calcula a soma dos termos de uma P.A? ',
-    'utiliza-se a fórmula: ((a1+an)*r)/2'
+    'Biotecnologia',
+    'Qual é o impacto da Biotecnologia na sociedade? ',
+    'Aplicações atráves de exames de DNA'
 )
 
 criaCartao(
-    'matematica',
-    'como se calcula a soma dos termos de uma P.A? ',
-    'utiliza-se a fórmula: ((a1+an)*r)/2'
+    'Biologia',
+    'Quem denominou os genes? ',
+    'Mendel'
 )
 
 criaCartao(
-    'matematica',
-    'como se calcula a soma dos termos de uma P.A? ',
-    'utiliza-se a fórmula: ((a1+an)*r)/2'
+    'Artes',
+    'Quem foi o autor de Noite Estrelada? ',
+    'Picasso'
 )
 
 criaCartao(
-    'matematica',
-    'como se calcula a soma dos termos de uma P.A? ',
-    'utiliza-se a fórmula: ((a1+an)*r)/2'
+    'Empreendedorismo',
+    'Quais são os critérios do Sistema FOFA? ',
+    'Forças, oportunidades,fraquezas e ameaças'
 )
 
 criaCartao(
-    'matematica',
-    'como se calcula a soma dos termos de uma P.A? ',
-    'utiliza-se a fórmula: ((a1+an)*r)/2'
+    'Português',
+    'Em qual parte da redação se coloca o repertório cultural? ',
+    'Na introdução'
 )
 
 criaCartao(
-    'matematica',
-    'como se calcula a soma dos termos de uma P.A? ',
-    'utiliza-se a fórmula: ((a1+an)*r)/2'
+    'História',
+    'Qual o nome do presidente do Brasil que ficou conhecido como Jango? ',
+    'João Goulart'
 )
 
 criaCartao(
-    'matematica',
-    'como se calcula a soma dos termos de uma P.A? ',
-    'utiliza-se a fórmula: ((a1+an)*r)/2'
+    'Geografia',
+    'O que foi a crise de 1929? ',
+    'Maior crise financeira do capitalismo internacional'
 )
 
 criaCartao(
-    'matematica',
-    'como se calcula a soma dos termos de uma P.A? ',
-    'utiliza-se a fórmula: ((a1+an)*r)/2'
+    'Matematica',
+    'Quantas casas decimais tem o número pi? ',
+    'Infinitas'
 )
 
 criaCartao(
-    'matematica',
-    'como se calcula a soma dos termos de uma P.A? ',
-    'utiliza-se a fórmula: ((a1+an)*r)/2'
+    'Biologia',
+    'As pessoas de qual tipo sanguíneo são consideradas doadores universais? ',
+    'Tipo O'
 )
 
 criaCartao(
-    'matematica',
-    'como se calcula a soma dos termos de uma P.A? ',
-    'utiliza-se a fórmula: ((a1+an)*r)/2'
+    'História',
+    'Em que período da pré-história o fogo foi descoberto?',
+    'Período Paleolítico'
 )
 
 criaCartao(
-    'matematica',
-    'como se calcula a soma dos termos de uma P.A? ',
-    'utiliza-se a fórmula: ((a1+an)*r)/2'
+    'Física',
+    'Qual a velocidade da luz? ',
+    '299 792 458 metros por segundo (m/s)'
 )
 
 criaCartao(
-    'matematica',
-    'como se calcula a soma dos termos de uma P.A? ',
-    'utiliza-se a fórmula: ((a1+an)*r)/2'
+    'Física',
+    'Quem foi o primeiro homem a pisar na Lua? ',
+    'Neil Armstrong, em 1969'
+)
+
+criaCartao(
+    'Sociologia',
+    'Qual o tema do famoso discurso Eu Tenho um Sonho, de Martin Luther King? ',
+    'Igualdade de raças'
 )
 //Ao todo são 20 pergumtas que exijam memorização
 // do seu ensino médio (qualquer disciplina)
