@@ -6,37 +6,37 @@ criaCartao(
 
 criaCartao(
     'Português',
-    'O que foi o periodo do romantismo?',
-    'Movimento artístico e cultural, da Europa.'
+    'O que foi o período do romantismo?',
+    'Movimento artístico e cultural, surgido na Europa.'
 )
 
 criaCartao(
     'História',
-    'Problemas da Ditadura Militar?',
+    'Quais foram os problemas da Ditadura Militar no Brasil?',
     'Censura,abuso de autoridade,perseguições e episódios de violência.'
 )
 
 criaCartao(
     'Geografia',
-    'Qual é ooceano que banha o Brasil? ',
+    'Qual é o nome do oceano que banha o Brasil? ',
     'Oceano Atlântico '
 )
 
 criaCartao(
     'Inglês',
     'Quais são os verbos to be?',
-    'Im,are e is'
+    'Im,are,is'
 )
 
 criaCartao(
-    'Sociologia,
-    'Impactos do capitalismo na sociedade? ',
-    'Deigualdade social, pobreza extrema, divisão de classes, concentração de renda'
+    'Sociologia'
+    'Impactos do capitalismo na sociedade ? ',
+    'Deigualdade social, pobreza extrema, divisão de classes,concentração de renda'
 )
 criaCartao(
     'Quimica',
      ' O que são os reagentes de uma reação? ',
-    'São aquelas substância que utilizam-se para ocasionar uma reação'
+    'São aquelas substâncias que utilizam-se para ocasionar uma reação'
 )
 
 criaCartao(
@@ -48,7 +48,7 @@ criaCartao(
 criaCartao(
     'Biotecnologia',
     'Qual é o impacto da Biotecnologia na sociedade? ',
-    'Aplicações atráves de exames de DNA'
+    'Aplicações atráves de exames de DNA, crescimento e desenvolvimento tecnológico'
 )
 
 criaCartao(
