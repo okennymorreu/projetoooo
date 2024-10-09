@@ -1,8 +1,12 @@
 :root{
 --fundo:#8B4513;
 --cartao-frente:#D2B48C;
---destaque:#FFFF00;
+--destaque:#A020F0;
 --preto:#000000;
 --branco:#ffffff;
 
 } 
+
+body{
+    background-color: var(--fundo);
+}
