@@ -20,3 +20,12 @@ footer{
     width 100%
     text-aligh: center;
 }
+
+#container{
+    padding: 4rem;
+    display: flex;
+    gap: 3rem;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
