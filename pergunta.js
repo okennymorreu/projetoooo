@@ -32,7 +32,7 @@ criaCartao(
     'Sociologia'
     'Impactos do capitalismo na sociedade' ?
     'Deigualdade social, pobreza extrema, divisão de classes,concentração de renda'
-)
+    )
 criaCartao(
     'Quimica',
      ' O que são os reagentes de uma reação? ',
