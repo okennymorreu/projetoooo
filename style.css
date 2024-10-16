@@ -29,3 +29,8 @@ footer{
     justify-content: space-between;
     flex-wrap: wrap;
 }
+
+.cartao{
+    flex-grow: 1;
+    flex-basis: calc(33% - 6rem);
+}
