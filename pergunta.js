@@ -29,8 +29,8 @@ criaCartao(
 )
 
 criaCartao(
-    'Sociologia'
-    'Impactos do capitalismo na sociedade' ?
+    'Sociologia',
+    'Impactos do capitalismo na sociedade?',
     'Deigualdade social, pobreza extrema, divisão de classes,concentração de renda'
     )
 criaCartao(
