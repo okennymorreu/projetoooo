@@ -41,6 +41,9 @@ footer{
     background-color: var(--cartao-frente);
     height: 100%;
     text-align: center;
+    /* color: var(--branco);*/
+    transform-style: preserve-3d;
+    transition: transform 300ms ease-in-out;
 }
 
 
@@ -68,5 +71,5 @@ color: var(--destaque);
 
 .cartao.cartao:hoover .conteudo-cartao{
     transform: rotateY(180deg);
-    
+
 }
