@@ -54,3 +54,19 @@ footer{
     font-size: 1VW;
     ;
 }
+
+.conteudo-cartao p{
+    margin-top: 4rem;
+    padding: 2rem;
+    font-size: 1.4vw;
+}
+
+.pergunta-cartao{
+font-weight: 700;
+color: var(--destaque);
+}
+
+.cartao.cartao:hoover .conteudo-cartao{
+    transform: rotateY(180deg);
+    
+}
