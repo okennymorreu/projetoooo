@@ -83,7 +83,7 @@ font-weight: 500;
 .resposta-cartao{
     font-weight: 700;
     color: var(--destaque);
-    transform: rotateY (180deg);
+    transform: rotateY(180deg);
     background-color: var(--cartao-verso);
     border: 2px solid var(--destaque);
 }
