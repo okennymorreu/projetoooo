@@ -72,8 +72,8 @@ color: var(--destaque);
     font-weight: 700;
     color: var(--destaque)
     transform
-    background: color var(--destaque)
-    border: 2px solid var(--destaque)
+    background: color var(--cartao-verso);
+    border: 2px solid var(--destaque);
 }
 
 .cartao.cartao:hoover .conteudo-cartao{
