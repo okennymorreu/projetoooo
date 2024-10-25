@@ -46,16 +46,16 @@ footer{
     transition: transform 300ms ease-in-out;
 }
 
-
 .conteudo-cartao.h3{
     color:var(--destaque);
     border: 1px solid var(--destaque);
     position:absolute;
-    margin: 0.5rem;
+    margin: 0.5rem,
+    padding: 0.5 rem;
     text-align:left;
     border-radius: 0.6rem;
     font-size: 1VW;
-    ;
+    backface-visibility: hidden;
 }
 
 .conteudo-cartao p{
@@ -71,5 +71,8 @@ color: var(--destaque);
 
 .cartao.cartao:hoover .conteudo-cartao{
     transform: rotateY(180deg);
+}
 
+.pergunta-cartao, .resposta-cartao{
+backface-visibility: hidden;
 }
