@@ -74,8 +74,8 @@ color: var(--destaque);
     transform
     background: color var(--destaque)
     border: 2px solid var(--destaque)
-
 }
+
 .cartao.cartao:hoover .conteudo-cartao{
     transform: rotateY(180deg);
 }
