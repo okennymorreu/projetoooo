@@ -91,12 +91,27 @@ footer {
 
 .cartao:hover .conteudo-cartao {
     transform: rotateY(180deg);
+    background-color: var(--cartao-verso);
+    border: 2px solid var(--destaque);
+    box-shadow: 2px -2px 10px var(--destaque);
 }
 
-.pergunta-cartao,
-.resposta-cartao {
+.pergunta-cartao, .resposta-cartao {
     backface-visibility: hidden;
     position: absolute;
     height: 100%;
     width: 100%;
+}
+
+.cartao.active .conteudo-cartao {
+    transform: rotateY(180deg);
+}
+
+footer {
+background-color: var(--preto);
+color: var(--branco);
+position:fixed;
+bottom: 0,
+widht: 100%;
+text-align: center;
 }
