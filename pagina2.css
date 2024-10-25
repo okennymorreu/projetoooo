@@ -45,3 +45,8 @@
         border: 1px soli var(--destaque);
         box-shadow: 5px 5px 20px 5px var(--preto);
     }
+
+    .cartao:hoover{
+        transform: scale(1.0)
+    }
+    
