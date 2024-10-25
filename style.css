@@ -108,7 +108,7 @@ footer {
 }
 
 footer {
-background-color: var(--preto);
+background-color: var (--preto);
 color: var(--branco);
 position:fixed;
 bottom: 0;
