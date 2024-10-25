@@ -47,6 +47,11 @@
     }
 
     .cartao:hoover{
-        transform: scale(1.0)
+        transform: scale(1.0);
     }
     
+    .resposta-cartao{
+        background-color: var(--cartao-verso);
+        padding: 40px;
+        color: var(--branco);
+    }
