@@ -64,7 +64,6 @@ footer{
     padding: 2rem;
     font-size: 1.4vw;
 }
-
 .pergunta-cartao{
 font-weight: 700;
 color: var(--destaque);
@@ -73,7 +72,7 @@ color: var(--destaque);
     font-weight: 700;
     color: var(--destaque);
     transform: rotateY (180deg);
-    background: color var(--cartao-verso);
+    background-color: var(--cartao-verso);
     border: 2px solid var(--destaque);
 }
 
