@@ -54,4 +54,6 @@
         background-color: var(--cartao-verso);
         padding: 40px;
         color: var(--branco);
+        display:none;
+        
     }
