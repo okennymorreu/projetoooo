@@ -50,7 +50,7 @@ footer{
     color:var(--destaque);
     border: 1px solid var(--destaque);
     position:absolute;
-    margin: 0.5rem,
+    margin: 0.5rem;
     padding: 0.5 rem;
     text-align:left;
     border-radius: 0.6rem;
@@ -71,8 +71,8 @@ color: var(--destaque);
 }
 .resposta-cartao{
     font-weight: 700;
-    color: var(--destaque)
-    transform
+    color: var(--destaque);
+    transform: rotateY (180deg);
     background: color var(--cartao-verso);
     border: 2px solid var(--destaque);
 }
