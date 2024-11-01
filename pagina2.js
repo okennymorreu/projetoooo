@@ -18,4 +18,11 @@ container. appendChild(cartao);
 
 function mostrarResposta(card) {
     const resposta = card.queryelector ('.resposta-cartao');
+
+    if() {
+
+    }
+    else {
+        
+    }
 }
