@@ -42,12 +42,12 @@
     .cartao{
         background-color: var(--cartao-frente);
         padding: 40px;
-        border: 1px soli var(--destaque);
+        border: 1px solid var(--destaque);
         box-shadow: 5px 5px 20px 5px var(--preto);
     }
 
-    .cartao:hoover{
-        transform: scale(1.0);
+    .cartao:hover{
+        transform: scale(1.04);
     }
     
     .resposta-cartao{
