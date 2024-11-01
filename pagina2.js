@@ -20,9 +20,10 @@ function mostrarResposta(card) {
     const resposta = card.queryelector ('.resposta-cartao');
 
     if(resposta.style.display === 'none') {
-
+       resposta.style.display = 'block';
     }
     else {
-
+     resposta.style.display == 'none';
+     
     }
 }
